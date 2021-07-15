@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: green;
+}
+img{
+    width: 400px;
+    height:400px;
+}
+.header-banner{
+    display: flex;
+    /* justify-content: center;
+    margin-top: 100px; */
+    /* border-top: 2px;
+    border-top-style: solid;
+    border-bottom-style: solid; */
+    
+.header-banner .banner-paragraph {
+    width: 400px;
+    height: 400px;
+}
